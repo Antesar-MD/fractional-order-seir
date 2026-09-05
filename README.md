@@ -80,8 +80,9 @@ docstring for the full correspondence.
 
 ## Citation
 
-If you use this code, please cite the article above. A citable DOI for
-this repository (via Zenodo) is: `[DOI to be added on release]`.
+If you use this code, please cite the article above. This repository is
+archived on Zenodo with a citable DOI:
+[10.5281/zenodo.22313974](https://doi.org/10.5281/zenodo.22313974).
 
 ## License
 
